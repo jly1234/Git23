@@ -1,12 +1,16 @@
 package Git.Git;
 
-public class HelloWord {
-	public static void main(String[] args)
+public class HelloWord 
+{
+	public static void main(String[] args) 
 	{
-		System.out.println("qqqqqqqqqq");
-		System.out.println("qqqqqqqqqq1");
-		System.out.println("qqqqqqqqqq2");
-		System.out.println("qqqqqqqqqq3");
+		System.out.println("Hello Word");
+		System.out.println("--------------------");
+		System.out.println("11");
+		System.out.println("22");
+		System.out.println("33");
+		System.out.println("44");
+		System.out.println("55");
 	}
 
 }
